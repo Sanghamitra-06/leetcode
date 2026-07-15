@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sanghamitra-06/leetcode/tree/master/0020-valid-parentheses) |
+| [0709-to-lower-case](https://github.com/Sanghamitra-06/leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Sanghamitra-06/leetcode/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
