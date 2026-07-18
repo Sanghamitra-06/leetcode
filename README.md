@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sanghamitra-06/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanghamitra-06/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sanghamitra-06/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sanghamitra-06/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Stack
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sanghamitra-06/leetcode/tree/master/0050-powx-n) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sanghamitra-06/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sanghamitra-06/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sanghamitra-06/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sanghamitra-06/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
