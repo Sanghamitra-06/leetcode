@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Sanghamitra-06/leetcode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Sanghamitra-06/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Sanghamitra-06/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0402-remove-k-digits](https://github.com/Sanghamitra-06/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Sanghamitra-06/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Sanghamitra-06/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sanghamitra-06/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanghamitra-06/leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Sanghamitra-06/leetcode/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Sanghamitra-06/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Sanghamitra-06/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sanghamitra-06/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sanghamitra-06/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sanghamitra-06/leetcode/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/Sanghamitra-06/leetcode/tree/master/0402-remove-k-digits) |
 | [0709-to-lower-case](https://github.com/Sanghamitra-06/leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Sanghamitra-06/leetcode/tree/master/0796-rotate-string) |
 ## String Matching
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Sanghamitra-06/leetcode/tree/master/0085-maximal-rectangle) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Sanghamitra-06/leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
