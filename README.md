@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanghamitra-06/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Sanghamitra-06/leetcode/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Sanghamitra-06/leetcode/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/Sanghamitra-06/leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sanghamitra-06/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sanghamitra-06/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanghamitra-06/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Sanghamitra-06/leetcode/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanghamitra-06/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Sanghamitra-06/leetcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanghamitra-06/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sanghamitra-06/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sanghamitra-06/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Sanghamitra-06/leetcode/tree/master/0085-maximal-rectangle) |
 | [0435-non-overlapping-intervals](https://github.com/Sanghamitra-06/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Sanghamitra-06/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/Sanghamitra-06/leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sanghamitra-06/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Matrix
 |  |
@@ -223,4 +226,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sanghamitra-06/leetcode/tree/master/0200-number-of-islands) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Sanghamitra-06/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Sanghamitra-06/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Sanghamitra-06/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
