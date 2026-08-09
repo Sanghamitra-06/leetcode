@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Sanghamitra-06/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sanghamitra-06/leetcode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/Sanghamitra-06/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/Sanghamitra-06/leetcode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanghamitra-06/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Sanghamitra-06/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Sanghamitra-06/leetcode/tree/master/0735-asteroid-collision) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sanghamitra-06/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Sanghamitra-06/leetcode/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sanghamitra-06/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Sanghamitra-06/leetcode/tree/master/0733-flood-fill) |
 ## Linked List
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sanghamitra-06/leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Sanghamitra-06/leetcode/tree/master/0085-maximal-rectangle) |
 | [0435-non-overlapping-intervals](https://github.com/Sanghamitra-06/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Sanghamitra-06/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Sanghamitra-06/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Sanghamitra-06/leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sanghamitra-06/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Sanghamitra-06/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Sanghamitra-06/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Sanghamitra-06/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Sanghamitra-06/leetcode/tree/master/0733-flood-fill) |
 ## Greedy
 |  |
