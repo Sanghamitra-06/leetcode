@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sanghamitra-06/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sanghamitra-06/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sanghamitra-06/leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Sanghamitra-06/leetcode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Sanghamitra-06/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Sanghamitra-06/leetcode/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/Sanghamitra-06/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sanghamitra-06/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sanghamitra-06/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Sanghamitra-06/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Sanghamitra-06/leetcode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanghamitra-06/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sanghamitra-06/leetcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanghamitra-06/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
