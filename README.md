@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Sanghamitra-06/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sanghamitra-06/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sanghamitra-06/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sanghamitra-06/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sanghamitra-06/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Sanghamitra-06/leetcode/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Sanghamitra-06/leetcode/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sanghamitra-06/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sanghamitra-06/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
 |  |
 | ------- |
