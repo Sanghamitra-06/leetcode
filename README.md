@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanghamitra-06/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/Sanghamitra-06/leetcode/tree/master/0202-happy-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sanghamitra-06/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanghamitra-06/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sanghamitra-06/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sanghamitra-06/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Sanghamitra-06/leetcode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanghamitra-06/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Sanghamitra-06/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Sanghamitra-06/leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Sanghamitra-06/leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sanghamitra-06/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sanghamitra-06/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Sanghamitra-06/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sanghamitra-06/leetcode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/Sanghamitra-06/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Sanghamitra-06/leetcode/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanghamitra-06/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sanghamitra-06/leetcode/tree/master/0877-stone-game) |
@@ -313,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Sanghamitra-06/leetcode/tree/master/2029-stone-game-ix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Sanghamitra-06/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
