@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Sanghamitra-06/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sanghamitra-06/leetcode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Sanghamitra-06/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Sanghamitra-06/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sanghamitra-06/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Sanghamitra-06/leetcode/tree/master/0202-happy-number) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanghamitra-06/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sanghamitra-06/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Sanghamitra-06/leetcode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Sanghamitra-06/leetcode/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanghamitra-06/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sanghamitra-06/leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Sanghamitra-06/leetcode/tree/master/0402-remove-k-digits) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Sanghamitra-06/leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Sanghamitra-06/leetcode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Sanghamitra-06/leetcode/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sanghamitra-06/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
