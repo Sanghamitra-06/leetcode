@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Sanghamitra-06/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Sanghamitra-06/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sanghamitra-06/leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Sanghamitra-06/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Sanghamitra-06/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Sanghamitra-06/leetcode/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanghamitra-06/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sanghamitra-06/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Sanghamitra-06/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Sanghamitra-06/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Sanghamitra-06/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Sanghamitra-06/leetcode/tree/master/0085-maximal-rectangle) |
 | [0435-non-overlapping-intervals](https://github.com/Sanghamitra-06/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Sanghamitra-06/leetcode/tree/master/0542-01-matrix) |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sanghamitra-06/leetcode/tree/master/0075-sort-colors) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sanghamitra-06/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
