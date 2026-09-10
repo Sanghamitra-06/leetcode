@@ -357,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Sanghamitra-06/leetcode/tree/master/0645-set-mismatch) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sanghamitra-06/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
