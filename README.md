@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sanghamitra-06/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sanghamitra-06/leetcode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Sanghamitra-06/leetcode/tree/master/0085-maximal-rectangle) |
+| [0169-majority-element](https://github.com/Sanghamitra-06/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Sanghamitra-06/leetcode/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/Sanghamitra-06/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sanghamitra-06/leetcode/tree/master/0455-assign-cookies) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanghamitra-06/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Sanghamitra-06/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sanghamitra-06/leetcode/tree/master/0202-happy-number) |
 | [0645-set-mismatch](https://github.com/Sanghamitra-06/leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sanghamitra-06/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sanghamitra-06/leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Sanghamitra-06/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sanghamitra-06/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Sanghamitra-06/leetcode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Sanghamitra-06/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sanghamitra-06/leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanghamitra-06/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sanghamitra-06/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Sanghamitra-06/leetcode/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sanghamitra-06/leetcode/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/Sanghamitra-06/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -365,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sanghamitra-06/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sanghamitra-06/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
