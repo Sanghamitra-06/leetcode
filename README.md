@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sanghamitra-06/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sanghamitra-06/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sanghamitra-06/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Sanghamitra-06/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Sanghamitra-06/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Sanghamitra-06/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Sanghamitra-06/leetcode/tree/master/0860-lemonade-change) |
 | [2029-stone-game-ix](https://github.com/Sanghamitra-06/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sanghamitra-06/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Sanghamitra-06/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Data Stream
 |  |
 | ------- |
