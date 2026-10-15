@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Sanghamitra-06/leetcode/tree/master/2029-stone-game-ix) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sanghamitra-06/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sanghamitra-06/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Sanghamitra-06/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sanghamitra-06/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sanghamitra-06/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sanghamitra-06/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Sanghamitra-06/leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sanghamitra-06/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanghamitra-06/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Sanghamitra-06/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sanghamitra-06/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sanghamitra-06/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sanghamitra-06/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
