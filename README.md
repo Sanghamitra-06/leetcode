@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sanghamitra-06/leetcode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Sanghamitra-06/leetcode/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sanghamitra-06/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/Sanghamitra-06/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sanghamitra-06/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Sanghamitra-06/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Sanghamitra-06/leetcode/tree/master/0217-contains-duplicate) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sanghamitra-06/leetcode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Sanghamitra-06/leetcode/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/Sanghamitra-06/leetcode/tree/master/0645-set-mismatch) |
 ## Manacher
 |  |
