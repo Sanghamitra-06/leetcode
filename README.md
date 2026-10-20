@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sanghamitra-06/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Sanghamitra-06/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sanghamitra-06/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sanghamitra-06/leetcode/tree/master/0110-balanced-binary-tree) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Sanghamitra-06/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Sanghamitra-06/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sanghamitra-06/leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Sanghamitra-06/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sanghamitra-06/leetcode/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sanghamitra-06/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Sanghamitra-06/leetcode/tree/master/0136-single-number) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sanghamitra-06/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Sanghamitra-06/leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Sanghamitra-06/leetcode/tree/master/0043-multiply-strings) |
+| [0079-word-search](https://github.com/Sanghamitra-06/leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanghamitra-06/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sanghamitra-06/leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Sanghamitra-06/leetcode/tree/master/0402-remove-k-digits) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sanghamitra-06/leetcode/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/Sanghamitra-06/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sanghamitra-06/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Sanghamitra-06/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Sanghamitra-06/leetcode/tree/master/0542-01-matrix) |
@@ -445,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sanghamitra-06/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Sanghamitra-06/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
