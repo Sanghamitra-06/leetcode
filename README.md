@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Sanghamitra-06/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sanghamitra-06/leetcode/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sanghamitra-06/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0135-candy](https://github.com/Sanghamitra-06/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Sanghamitra-06/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sanghamitra-06/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Sanghamitra-06/leetcode/tree/master/0200-number-of-islands) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Sanghamitra-06/leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Sanghamitra-06/leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Sanghamitra-06/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Sanghamitra-06/leetcode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Sanghamitra-06/leetcode/tree/master/0435-non-overlapping-intervals) |
