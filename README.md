@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sanghamitra-06/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Sanghamitra-06/leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Sanghamitra-06/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sanghamitra-06/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Sanghamitra-06/leetcode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/Sanghamitra-06/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Sanghamitra-06/leetcode/tree/master/0542-01-matrix) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sanghamitra-06/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Sanghamitra-06/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Sanghamitra-06/leetcode/tree/master/0258-add-digits) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sanghamitra-06/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanghamitra-06/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Sanghamitra-06/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Sanghamitra-06/leetcode/tree/master/0877-stone-game) |
